@@ -72,7 +72,7 @@ CORS(app, origins=[
     "http://192.168.1.2:3000",  # Common local network
     "http://10.0.0.1:3000",     # Common local network
     "http://10.0.0.2:3000",     # Common local network
-    "https://admin-o7ei.onrender.com",
+    "https://admin2-f0m8.onrender.com",
     "https://admin-o7ei.onrender.com/",
     "https://admin-aa3r.onrender.com",  # Previous Render frontend
     "https://admin-aa3r.onrender.com/", # Previous Render frontend
@@ -95,7 +95,7 @@ socketio = SocketIO(app, async_mode='threading', cors_allowed_origins=[
     "http://192.168.1.2:3000",  # Common local network
     "http://10.0.0.1:3000",     # Common local network
     "http://10.0.0.2:3000",     # Common local network
-    "https://admin-o7ei.onrender.com",
+    "https://admin2-f0m8.onrender.com",
     "https://admin-o7ei.onrender.com/",
     "https://admin-aa3r.onrender.com",  # Previous Render frontend
     "https://admin-aa3r.onrender.com/", # Previous Render frontend
